@@ -1,137 +1,98 @@
-<h1 align="center">Hi 👋, I'm Ubaidullh Aslam</h1>
+<!-- =========================
+     Header / Hero Section
+============================ -->
+<h1 align="center">Hi 👋, I'm Ubaidullah Aslam</h1>
+<h3 align="center">AI Developer | WordPress Designer | Web & App Creator</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Developer;Building+in+Public;Product-Focused+Engineer;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  🚀 AI Developer • 🧠 Product Thinker • 🔓 Building in Public
-</p>
-
----
-
-## 👋 About Me
-
-I’m an **AI Developer** focused on building **real-world, user-first products** — not just demos or experiments.
-
-I believe in:
-- Shipping fast  
-- Learning in public  
-- Thinking in systems & products  
-
-This GitHub is my **public lab** where ideas turn into code and code turns into real products.
-
----
-
-## 🧠 What I Do
-
-- AI-powered applications  
-- Computer vision & intelligent detection  
-- Automation & habit-based systems  
-- Product-first engineering  
-
-I care about **impact, usability, and clean architecture**.
-
----
-
-## 🚀 Featured Project — Lumi Care
-
-**Lumi Care** is a beauty & wellness app I’m actively building in public.
-
-> *Using AI + daily habits to help people improve skin health and self-care.*
-
-### Key Features
-- 💧 Water & hydration tracking  
-- 🤖 AI-based acne detection  
-- 🧖 Face massage & skincare routines  
-- 📚 Daily tips, challenges & free courses  
-- 👥 Community-driven support  
-
----
-
-## 🛣️ Lumi Care — Public Roadmap
-
-**Phase 1 — Foundation**
-- [x] Product concept & UX  
-- [x] Core habit features  
-- [x] AI acne detection (prototype)
-
-**Phase 2 — Growth**
-- [ ] Community features  
-- [ ] Personalized routines  
-- [ ] Model optimization  
-
-**Phase 3 — Scale**
-- [ ] Advanced AI insights  
-- [ ] Expert & creator content  
-- [ ] Global rollout  
-
----
-
-## 🔓 Building in Public
-
-Here you’ll find:
-- Real progress (wins & failures)  
-- Open experiments & iterations  
-- Honest engineering decisions  
-
-Transparency compounds learning.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- Python  
-- JavaScript / TypeScript  
-
-**AI & Systems**
-- Computer Vision  
-- Machine Learning  
-- Automation Pipelines  
-
-**Web & Product**
-- WordPress  
-- Frontend systems  
-- Scalable architectures  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubaid164&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaid164&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ubaid164">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-FFD23F?style=for-the-badge&logo=gmail&logoColor=black" />
+  <a href="https://play.google.com/store/apps/details?id=com.masterfulcode.lumicareapp&pli=1" target="_blank">
+    <img src="https://img.shields.io/badge/LumiCare-App-FF6F61?logo=google-play&style=flat-square" alt="LumiCare App Link"/>
   </a>
 </p>
 
 ---
 
-## 🎯 Open To
+<!-- =========================
+      Animated Typing Headline
+ ============================ -->
+<p align="center">
+  <strong>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F61&width=600&lines=Building+in+Public.;Creating+AI+Driven+Apps.;Sharing+Skills+Openly+Everyday." alt="Typing SVG"/>
+  </strong>
+</p>
 
-- AI & product roles  
-- Startup collaborations  
-- Open-source projects  
-- Building useful things with smart people  
+---
 
-> *Still early. Still learning. Still building.*
+<!-- =========================
+       About Me Section
+============================ -->
+### 🧠 About Me
+
+I’m an AI Developer building in **public mode**, focused on creating impactful tech that solves real problems.
+
+My passion lies in:
+- 🤖 Developing AI-powered applications
+- 💻 Web & WordPress design with stunning UI/UX
+- 📈 Converting visitors into users & clients
+- 📚 Sharing knowledge, building community
+
+I build with purpose — meaningful features, real results.
+
+---
+
+<!-- =========================
+       Social Links
+============================ -->
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.facebook.com/share/14PqsY1vLvn/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=flat-square" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/ubaidullah_aslam?igsh=MW9odWxwOGk3YWx6dQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=flat-square" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ubaidullah-aslam-4400561bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<!-- =========================
+      GitHub Stats & Tools
+============================ -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ubaid164&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaid164&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+---
+
+<!-- =========================
+       Projects Showcase
+============================ -->
+### 🚀 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **LumiCare App** | AI Acne Detector + Habit Tracker + Courses | <a href="https://play.google.com/store/apps/details?id=com.masterfulcode.lumicareapp&pli=1">Play Store</a> |
+| **Your WP Portfolio Site** | WordPress UI/UX Design Showcase | *(Coming Soon)* |
+| **Other AI Tools** | Various Python & ML Projects | *(Public)* |
+
+---
+
+### 🧠 My Workflow
+
+```mermaid
+graph LR
+A[Idea & UX Concept] --> B[Design & Prototype]
+B --> C[Development (AI/AI API)]
+C --> D[Testing & Feedback]
+D --> E[Launch]
+E --> F[Growth & Optimization]
